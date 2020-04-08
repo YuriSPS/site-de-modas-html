@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/*------- CLASSES -------*/
+
+
+.menu_nav{
+    padding: 5px;
+}
+
+.img_capa_menu{
+    margin-top: -15px;
+}
+
+.caroulsel_menu{
+    padding-top: 15px;
+}
+
+.nav-link{
+    color: #fff;
+}
+
+.nav-link:hover{
+    /* background-color: rgb(109, 108, 107);   */
+    color: #fff;
+    border-bottom: solid #fff;
+    padding-bottom: 1px;
+}
+
+.card-title{
+    background-color: rgb(24, 22, 22);;
+    color: #fff;
+}
+
+.p_lancamento{
+    font-size: 25px;
+    font-weight: 600;
+}
+/*------- IDS -------*/
